@@ -6,4 +6,4 @@ The user may add students to the database which is a simple text file. Then, the
 
 The need for such software arised from making it easier for combat sports teachers to keep track of when a student has not attended a session for consecuent times.
 
-The current supported language is English and Greek (written in greeklish).
+The current supported languages are English and Greek (greeklish).
